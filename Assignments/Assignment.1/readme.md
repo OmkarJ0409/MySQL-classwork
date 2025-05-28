@@ -150,3 +150,20 @@ Tables: Teams, Players, Matches, Scores, Venues
 Tables: Apps, Developers, Installs, Categories, Reviews
 
       Google Play Store app data with developers, installs, categories, and reviews.
+
+
+
+
+How to Use:-
+
+
+Navigate to each database file to find SQL scripts defining tables and sample data.
+
+Import SQL files into your preferred database system (MySQL, PostgreSQL, SQLite, etc.).
+
+Explore the schema and data for learning or development purposes.
+
+Contribution:-
+
+
+Contributions are welcome! Feel free to submit new database designs or improvements via pull requests.
